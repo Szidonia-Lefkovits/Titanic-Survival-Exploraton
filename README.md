@@ -17,7 +17,7 @@ If you do not have Python installed yet, it is highly recommended that you insta
 
 Create a conda environment `conda create -n <envname> python=3` 
 
-and activate it
+Activate it
 In Windows`activate <envname>` or in Mac/Linux `source activate <envname>`
 
 Install the mentioned packages
